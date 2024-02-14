@@ -2,6 +2,7 @@
 
 ### sw_vers
 <a href="sw_vers.png">Выводит информацию о версии macOS</a>
+
 <img src="sw_vers.png">
 
 ### uname -a
