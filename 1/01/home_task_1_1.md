@@ -9,8 +9,12 @@
 Выводит информацию о названии ОС с подробными атрибутами: имя, где установлена, название и версия ядра и др.
 
 <img src="sysctl.png">
+
 ### system_profiler
 Выводит подробную информацию о конфигурации оборудования и ПО
+
+<img src="system_profiler_all.png">
+
 ### sysctl -n machdep.cpu.brand_string
 Выводит информацию о переменной окружения, в которой указана информация о процессоре
 ### system_profiler SPHardwareDataType
